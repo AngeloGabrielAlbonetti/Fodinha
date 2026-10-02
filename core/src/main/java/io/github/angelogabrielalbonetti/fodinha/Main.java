@@ -10,7 +10,6 @@ import com.badlogic.gdx.utils.ScreenUtils;
 public class Main extends Game {
     @Override
     public void create() {
-        setScreen(new Menu());
     }
 }
 
